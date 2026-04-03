@@ -228,6 +228,8 @@ et le pourcentage de conservation (bleu, signal), avant et après trimAl.
 **Fichier produit :**
 `alignment/alignment_comparison.png`
 
+**Aperçu du contrôle qualité :**
+![Comparaison des scores de conservation et de gaps avant et après trimming](alignment/alignment_comparison.png)
 ---
 
 ### Étape 5 — `extract_window.sh`
@@ -457,3 +459,5 @@ python3 bin/plot_silva.py \
 ```
 
 Sortie : `Rapport_Lactococcus_772bp.png`
+**Aperçu du contrôle qualité :**
+![Comparaison des scores de conservation et de gaps avant et après trimming](Rapport_Lactococcus_772bp.png)
