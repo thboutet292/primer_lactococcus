@@ -459,5 +459,6 @@ python3 bin/plot_silva.py \
 ```
 
 Sortie : `Rapport_Lactococcus_772bp.png`
-**Aperçu du contrôle qualité :**
-![Comparaison des scores de conservation et de gaps avant et après trimming](Rapport_Lactococcus_772bp.png)
+
+**Rapport Lactococcus**
+![Rapport du couple d'amorce le plus prometteur pour les Lactococcus](Rapport_Lactococcus_772bp.png)
