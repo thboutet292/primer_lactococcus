@@ -1,0 +1,104 @@
+================================================================================
+  TOP PAIRES ASYMÉTRIQUES (Forward Universelle x Reverse Spécifique)
+================================================================================
+
+Paire #01  [W003 x W010]  |  Amplicon estimé : ~777 pb
+  Forward : CCAAGGCGATGATACATAGCCG    Tm=56.7°C  GC=54.5%
+  Reverse : TGTATCCCGTGTCCCGAAGGAA    Tm=56.7°C  GC=54.5%
+  DeltaTm : 0.0°C
+
+Paire #02  [W003 x W010]  |  Amplicon estimé : ~775 pb
+  Forward : CCAAGGCGATGATACATAGCCG    Tm=56.7°C  GC=54.5%
+  Reverse : TATCCCGTGTCCCGAAGGAACT    Tm=56.7°C  GC=54.5%
+  DeltaTm : 0.0°C
+
+Paire #03  [W002 x W009]  |  Amplicon estimé : ~774 pb
+  Forward : CCCGCGTTGTATTAGCTA        Tm=48.0°C  GC=50.0%
+  Reverse : GCACGAGTATGTCAAGAC        Tm=48.0°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #04  [W002 x W009]  |  Amplicon estimé : ~774 pb
+  Forward : CCCGCGTTGTATTAGCTAG       Tm=51.1°C  GC=52.6%
+  Reverse : GCACGAGTATGTCAAGACC       Tm=51.1°C  GC=52.6%
+  DeltaTm : 0.0°C
+
+Paire #05  [W002 x W009]  |  Amplicon estimé : ~774 pb
+  Forward : CCCGCGTTGTATTAGCTAGT      Tm=51.8°C  GC=50.0%
+  Reverse : GCACGAGTATGTCAAGACCT      Tm=51.8°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #06  [W003 x W010]  |  Amplicon estimé : ~774 pb
+  Forward : CCAAGGCGATGATACATAGCCG    Tm=56.7°C  GC=54.5%
+  Reverse : ATCCCGTGTCCCGAAGGAACTT    Tm=56.7°C  GC=54.5%
+  DeltaTm : 0.0°C
+
+Paire #07  [W003 x W010]  |  Amplicon estimé : ~774 pb
+  Forward : AGGCGATGATACATAGCCGACC    Tm=56.7°C  GC=54.5%
+  Reverse : TGTATCCCGTGTCCCGAAGGAA    Tm=56.7°C  GC=54.5%
+  DeltaTm : 0.0°C
+
+Paire #08  [W002 x W009]  |  Amplicon estimé : ~773 pb
+  Forward : CCCGCGTTGTATTAGCTA        Tm=48.0°C  GC=50.0%
+  Reverse : CACGAGTATGTCAAGACC        Tm=48.0°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #09  [W002 x W009]  |  Amplicon estimé : ~773 pb
+  Forward : CCGCGTTGTATTAGCTAG        Tm=48.0°C  GC=50.0%
+  Reverse : GCACGAGTATGTCAAGAC        Tm=48.0°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #10  [W002 x W009]  |  Amplicon estimé : ~773 pb
+  Forward : CCCGCGTTGTATTAGCTAGT      Tm=51.8°C  GC=50.0%
+  Reverse : CACGAGTATGTCAAGACCTG      Tm=51.8°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #11  [W002 x W009]  |  Amplicon estimé : ~773 pb
+  Forward : CCCGCGTTGTATTAGCTAGTTG    Tm=54.8°C  GC=50.0%
+  Reverse : CACGAGTATGTCAAGACCTGGT    Tm=54.8°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #12  [W003 x W010]  |  Amplicon estimé : ~773 pb
+  Forward : GGCGATGATACATAGCCGACC     Tm=56.3°C  GC=57.1%
+  Reverse : TGTATCCCGTGTCCCGAAGGA     Tm=56.3°C  GC=57.1%
+  DeltaTm : 0.0°C
+
+Paire #13  [W003 x W010]  |  Amplicon estimé : ~773 pb
+  Forward : GGCGATGATACATAGCCGACCT    Tm=56.7°C  GC=54.5%
+  Reverse : TGTATCCCGTGTCCCGAAGGAA    Tm=56.7°C  GC=54.5%
+  DeltaTm : 0.0°C
+
+Paire #14  [W002 x W009]  |  Amplicon estimé : ~772 pb
+  Forward : CCGCGTTGTATTAGCTAG        Tm=48.0°C  GC=50.0%
+  Reverse : CACGAGTATGTCAAGACC        Tm=48.0°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #15  [W002 x W009]  |  Amplicon estimé : ~772 pb
+  Forward : CCGCGTTGTATTAGCTAGT       Tm=48.9°C  GC=47.4%
+  Reverse : CACGAGTATGTCAAGACCT       Tm=48.9°C  GC=47.4%
+  DeltaTm : 0.0°C
+
+Paire #16  [W002 x W009]  |  Amplicon estimé : ~772 pb
+  Forward : CCCGCGTTGTATTAGCTAGT      Tm=51.8°C  GC=50.0%
+  Reverse : ACGAGTATGTCAAGACCTGG      Tm=51.8°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #17  [W002 x W009]  |  Amplicon estimé : ~772 pb
+  Forward : CCCGCGTTGTATTAGCTAGTT     Tm=52.4°C  GC=47.6%
+  Reverse : ACGAGTATGTCAAGACCTGGT     Tm=52.4°C  GC=47.6%
+  DeltaTm : 0.0°C
+
+Paire #18  [W002 x W009]  |  Amplicon estimé : ~772 pb
+  Forward : CCGCGTTGTATTAGCTAGTTGG    Tm=54.8°C  GC=50.0%
+  Reverse : CACGAGTATGTCAAGACCTGGT    Tm=54.8°C  GC=50.0%
+  DeltaTm : 0.0°C
+
+Paire #19  [W003 x W010]  |  Amplicon estimé : ~772 pb
+  Forward : GGCGATGATACATAGCCGACC     Tm=56.3°C  GC=57.1%
+  Reverse : GTATCCCGTGTCCCGAAGGAA     Tm=56.3°C  GC=57.1%
+  DeltaTm : 0.0°C
+
+Paire #20  [W003 x W010]  |  Amplicon estimé : ~772 pb
+  Forward : AGGCGATGATACATAGCCGACC    Tm=56.7°C  GC=54.5%
+  Reverse : TATCCCGTGTCCCGAAGGAACT    Tm=56.7°C  GC=54.5%
+  DeltaTm : 0.0°C
+

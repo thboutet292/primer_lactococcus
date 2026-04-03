@@ -1,0 +1,13 @@
+# Ignorer les grosses bases de données
+databases/
+*.fa.gz
+
+# Ignorer les fichiers temporaires et logs lourds
+alignment/*.fa
+alignment/*.clw
+*.log
+tmp_*/
+
+# (Optionnel) Mais on garde les dossiers de scripts et rapports :
+# !bin/
+# !reports/
