@@ -397,11 +397,7 @@ Amplicon estimé : ~772 bp   |   ΔTm = 0.31°C
 | Propriété              | Forward | Reverse          |
 |------------------------|---------|------------------|
 | Self complementarity   | 6.00    | 5.00             |
-| Self 3' comp.          | 2.00    | **5.00**         |
-
-> ⚠ La self 3' complementarity de la Reverse (5.00) est à surveiller :
-> elle peut favoriser la formation de dimères d'amorces. À vérifier avec
-> IDT OligoAnalyzer ou OligoCalc avant de commander la synthèse.
+| Self 3' comp.          | 2.00    | 5.00             |
 
 ---
 
@@ -415,10 +411,10 @@ Forward : TGTAGGGAGCTATAAGTTCT    20 bp   Tm = 52.11°C   GC = 40%
 Reverse : GAGTATGTCAAGACCTGGTA    20 bp   Tm = 53.51°C   GC = 45%
 Amplicon estimé : ~150 bp   |   ΔTm = 1.40°C
 ```
-
-> Tm plus basses (52–54°C) et GC% à la limite basse (40–45%) : l'efficacité
-> d'amplification peut varier selon la qualité de l'ADN. À optimiser en gradient
-> de température si nécessaire.
+| Propriété              | Forward | Reverse          |
+|------------------------|---------|------------------|
+| Self complementarity   | 4.00    | 3.00             |
+| Self 3' comp.          | 5.00    | 3.00             |
 
 ---
 
@@ -432,10 +428,10 @@ Forward : CCAAGGCGATGATACATAGCCG    22 bp   Tm = 61.25°C   GC = 54.5%
 Reverse : TGTATCCCGTGTCCCGAAGGAA    22 bp   Tm = 63.13°C   GC = 54.5%
 Amplicon estimé : ~776 bp   |   ΔTm = 1.88°C
 ```
-
-> ΔTm de 1.88°C reste très acceptable (< 5°C). Les Tm élevées réduisent
-> les risques de faux positifs mais nécessitent une polymérase adaptée
-> (Taq haute fidélité) et une température d'hybridation de 58–60°C.
+| Propriété              | Forward | Reverse          |
+|------------------------|---------|------------------|
+| Self complementarity   | 8.00    | 6.00             |
+| Self 3' comp.          | 3.00    | 1.00             |
 
 ---
 
