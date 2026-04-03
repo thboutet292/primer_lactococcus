@@ -372,6 +372,17 @@ via TestPrime (SILVA) et PrimerBLAST (NCBI).
 
 ---
 
+### TestPrime — SILVA
+→ [https://www.arb-silva.de/search/testprime/](https://www.arb-silva.de/search/testprime/)
+
+### PrimerBLAST — NCBI
+→ [https://www.ncbi.nlm.nih.gov/tools/primer-blast/](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)
+
+Restreindre la recherche à *bacteria* (taxid : 2) et vérifier qu'aucune
+amplification hors-cible n'apparaît dans la base de données nr.
+
+---
+
 ### Paire 1 — Recommandée · Amplicon ~772 bp
 
 Meilleur compromis taille d'amplicon / spécificité. Hits SILVA : uniquement
@@ -427,26 +438,6 @@ Amplicon estimé : ~776 bp   |   ΔTm = 1.88°C
 > (Taq haute fidélité) et une température d'hybridation de 58–60°C.
 
 ---
-
-## Validation externe des amorces
-
-Deux outils complémentaires sont à utiliser pour valider les amorces sélectionnées
-avant de commander leur synthèse.
-
-### TestPrime — SILVA
-→ [https://www.arb-silva.de/search/testprime/](https://www.arb-silva.de/search/testprime/)
-
-Tester avec 0 et 1 mismatch autorisé. Interpréter les résultats ainsi :
-- **Couverture *Lactococcus*** : viser > 90%
-- **Taux de faux positifs** (genres non-cibles) : viser < 5%
-
-### PrimerBLAST — NCBI
-→ [https://www.ncbi.nlm.nih.gov/tools/primer-blast/](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)
-
-Restreindre la recherche à *Lactococcus* (taxid : 1357) et vérifier qu'aucune
-amplification hors-cible n'apparaît dans la base de données nr.
-
-
 
 Pour générer le rapport graphique à partir des résultats CSV de TestPrime :
 
